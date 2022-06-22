@@ -1,0 +1,5 @@
+str=input("enter a string: ")
+l=len(str)
+print("enter a number less than",+l)
+n=input()
+print(str[n:])
